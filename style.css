@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#resultsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vb;
+}
+
+.card {
+  width: 300px;
+  background-color: #ccc9c9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 3em;
+  margin: 2em;
+}
+
+.card img {
+  border: black 1px solid;
+  border-radius: 8px;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.card h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 16px;
+  color: #000000;
+}
