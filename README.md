@@ -6,7 +6,6 @@ This project is a minimalistic webpage designed for exploring the iNaturalist AP
 
 - **Place Search:** Users can search for places by name.
 - **Identification Display:** Displays names and images of identifications related to the selected place.
-- **Simple and User-Friendly Interface:** Designed to be straightforward and easy to navigate.
 
 ## Acknowledgments
 
